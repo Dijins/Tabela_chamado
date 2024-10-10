@@ -1,0 +1,15 @@
+html {
+    overflow-y: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+textarea {
+    line-height: 1.5rem !important;
+}
